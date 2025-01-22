@@ -1,5 +1,5 @@
 # Star-Generator
-This is a project that started as an assignment for my Intro to Applied Mathematics course at the UW. I have since expanded its functionality to allow for more user customization of the stars being generated.
+This is a project that started as an assignment for my Intro to Scientific Computing (AMATH 301) course at University of Washington. I have since expanded its functionality to allow for more user customization of the stars being generated.
 
 <img src="star_bounce.gif" width="50%" align="right" />
 
